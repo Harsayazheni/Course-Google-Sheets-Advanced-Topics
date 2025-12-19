@@ -45,13 +45,13 @@ The Google Sheets – Advanced Topics course helps learners master advanced spre
 ## 📂 Repository Structure
 
 Course-Google-Sheets-Advanced-Topics/
-│
-├── Notes.pdf
-├── Quizzes/
 ├── Activities/
+│ └── Practice exercises and hands-on tasks
+├── Quizzes/
+│ └── Module-wise quizzes and assessments
+├── Notes.pdf
 ├── Certificate of Completion.pdf
 └── README.md
-
 
 ---
 
